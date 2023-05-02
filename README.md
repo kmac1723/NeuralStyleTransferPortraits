@@ -1,2 +1,5 @@
 # NeuralStyleTransferPortraits
-Neural Style Transfer for potraits
+
+Neural Style Transfer using a Tensorflow CycleGAN, run using Kaggle TPUs
+
+
